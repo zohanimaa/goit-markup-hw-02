@@ -1,0 +1,142 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.link-logo {
+    text-transform: uppercase;
+}
+.link-logo {
+    font-family: "Raleway", sans-serif;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 1.16667;
+}
+.page-nav .web {
+    color: #4D5AE5;
+}
+.page-nav .studio {
+    color: #2E2F42;
+}
+.nav-list .nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2E2F42;
+}
+.nav-list .main-nav-link {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5; 
+}
+.nav-list .nav-link:hover,
+.nav-list .nav-link:focus
+ {
+  color: #404BBF;
+}
+.nav-list .main-nav-link:hover,
+.nav-list .main-nav-link:focus,
+.nav-list .main-nav-link:active {
+  color: #404BBF;
+}
+.contacts-links .link-mail {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.contacts-links .link-mail:hover,
+.contacts-links .link-mail:focus {
+    color: #404BBF;
+}
+.contacts-links .link-number{
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;  
+}
+.contacts-links .link-number:hover,
+.contacts-links .link-number:focus {
+   color: #404BBF;
+}
+.main-title {
+   color: #2E2F42;
+   font-size: 56px;
+   line-height: 1.071;
+   text-align: center;
+}
+.main-button {
+   background-color: #4D5AE5;
+   color: #FFFFFF;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+}
+.main-button:hover,
+.main-button:focus {
+   background-color: #404BBF;
+}
+.benefits .benefits-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.benefits .about-benefits {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.our-team-title {
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.111;
+    text-align: center;
+}.team-cards-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+}
+.team-cards-text {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+.portfolio-main-title {
+    font-size: 36px;
+    line-height: 1.111;
+    text-align: center;
+   color: #2E2F42;
+}
+.portfolio-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.web-logo {
+    font-family: "Raleway";
+    font-size: 18px;
+    line-height: 1.166;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.studio-logo {
+    font-family: "Raleway";
+    font-size: 18px;
+    line-height: 1.166;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
